@@ -1,3 +1,5 @@
-# .github
+# Shinhan Bank Hackathon with SSAFY
 
-자바 두명 타요
+MOA - 자바두명타요  
+  
+https://shbhack.oopy.io/
